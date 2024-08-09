@@ -1,5 +1,15 @@
 ## About me:
-> A passionate backend and MLOps Java developer from Russia!
+```java
+public class MyInfo {
+    private static final String language = "Java";
+    private static final String[] occupation = new String[]{"Backend", "MLOps"};
+
+    public static void main(String[] args) {
+        System.out.printf("A passionate %s %s developer from Russia!",
+                String.join(" and ", occupation), language);
+    }
+}
+```
 
 📚 Now I’m currently working on Spring AI project at NIPK "Electron"
 
