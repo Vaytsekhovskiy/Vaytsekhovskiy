@@ -1,4 +1,3 @@
-<h1 align="center">Hi there! I'm Egor</h1>
 <h3 >About me</h3>
 A passionate backend and MLOps Java developer from Russia!
 📚 Now I’m currently working on Spring AI project at NIPK "Electron"
