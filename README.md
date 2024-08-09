@@ -1,12 +1,20 @@
 ## About me:
 ```java
 public class MyInfo {
-    private static final String language = "Java";
-    private static final String[] occupation = new String[]{"Backend", "MLOps"};
+    // Developer info
+    private static final String LANGUAGE = "Java";
+    private static final String[] OCCUPATION = new String[]{"Backend", "MLOps"};
 
+    // Developer visited cities
+    enum City {
+        SAINT_PETERSBURG,
+        ORENBURG
+    }
+
+    // Display the information
     public static void main(String[] args) {
-        System.out.printf("A passionate %s %s developer from Russia!",
-                String.join(" and ", occupation), language);
+        System.out.printf("A passionate %s %s developer from %s!",
+                String.join(" and ", OCCUPATION), LANGUAGE, City.SAINT_PETERSBURG);
     }
 }
 ```
