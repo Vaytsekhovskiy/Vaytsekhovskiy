@@ -1,5 +1,6 @@
 <h1 align="center">Hi there! I'm Egor</h1>
-<h3 align="center">A passionate backend and MLOps Java developer from Russia! Now I’m currently working on Spring AI project at NIPK "Electron"</h3>
+<h3 align="center">A passionate backend and MLOps Java developer from Russia!</h3>
+Now I’m currently working on Spring AI project at NIPK "Electron"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
