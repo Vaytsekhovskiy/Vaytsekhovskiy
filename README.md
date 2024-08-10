@@ -1,20 +1,17 @@
 ## About me:
 ```java
-public class MyInfo {
-    // Developer info
+import java.util.Locale;
+
+public class Profile {
+    // Profile info
     private static final String LANGUAGE = "Java";
     private static final String[] OCCUPATION = new String[]{"Backend", "MLOps"};
-
-    // Developer visited cities
-    enum City {
-        SAINT_PETERSBURG,
-        ORENBURG
-    }
+    private static final Locale LOCATION = new Locale("Russian", "Russia");
 
     // Display the information
     public static void main(String[] args) {
         System.out.printf("A passionate %s %s developer from %s!",
-                String.join(" and ", OCCUPATION), LANGUAGE, City.SAINT_PETERSBURG);
+                String.join(" and ", OCCUPATION), LANGUAGE, LOCATION.getCountry());
     }
 }
 ```
