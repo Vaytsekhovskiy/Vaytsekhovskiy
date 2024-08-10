@@ -26,12 +26,8 @@ public class MyInfo {
 ### Languages
 | Java | Python | Kotlin |
 |----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin"  alt="Kotlin" width="55" height="55"/> |
-### Best Frameworks
-| Spring | JavaFX |
-|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="55" height="55"/>|  <img src="https://i1.sndcdn.com/avatars-000040353026-rwzff5-t500x500.jpg" alt="javaFX" width="55" height="55"/> </a> |
-### Data Manipulation
-| PostgreSQL | MySQL |
-|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/> </a> |
+|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="55" height="55"/> |
+### Tools
+| Spring | JavaFX | Docker | Kafka | Linux | PostgreSQL |
+|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="55" height="55"/>|  <img src="https://i1.sndcdn.com/avatars-000040353026-rwzff5-t500x500.jpg" alt="javaFX" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/>| <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="55" height="55"/>  |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55"/>  |
