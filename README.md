@@ -34,4 +34,4 @@ public class MyInfo {
 ### Data Manipulation
 | PostgreSQL | MySQL |
 |----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/> </a> |
+|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/> </a> |
