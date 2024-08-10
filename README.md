@@ -30,5 +30,4 @@ public class MyInfo {
 ### Best Frameworks
 | Spring | JavaFX |
 |----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="55" height="55"/>|  
-<img src="https://i1.sndcdn.com/avatars-000040353026-rwzff5-t500x500.jpg" alt="javaFX" width="40" height="40"/> </a> |
+|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="55" height="55"/>|  <img src="https://i1.sndcdn.com/avatars-000040353026-rwzff5-t500x500.jpg" alt="javaFX" width="40" height="40"/> </a> |
