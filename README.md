@@ -31,3 +31,7 @@ public class MyInfo {
 | Spring | JavaFX |
 |----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="55" height="55"/>|  <img src="https://i1.sndcdn.com/avatars-000040353026-rwzff5-t500x500.jpg" alt="javaFX" width="55" height="55"/> </a> |
+### Data Manipulation
+| PostgreSQL | MySQL |
+|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/> </a> |
