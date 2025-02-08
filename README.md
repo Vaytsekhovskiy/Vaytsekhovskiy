@@ -20,7 +20,6 @@ public class Profile {
 
 🎓 I study at the St.Petersburg Polytechnic University
 ## Languages and Tools:
-### Languages:
 | Java | Python | Kotlin |
 |----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="55" height="55"/> |
