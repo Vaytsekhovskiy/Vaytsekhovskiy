@@ -15,8 +15,6 @@ public class Profile {
     }
 }
 ```
-## Facts:
-📚 Now I’m currently working on Spring AI project at NIPK "Electron"
 ## Languages:
 | Java | Python | Kotlin |
 |----------|----------|----------|
